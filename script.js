@@ -1,3 +1,4 @@
+
 let inputHere = document.getElementById("inputHere");
 const searchHere = document.getElementById("searchHere");
 
@@ -51,4 +52,5 @@ function displayAll(users) {
                 document.getElementById("singleLyricsShowTwo").style.display = "block";
                }
     //---------- === Lyrics results === -->
+    // thank you
                 
